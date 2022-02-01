@@ -1,7 +1,8 @@
-package com.plcoding.androidstorage
+package com.jlopez.androidstorage
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.plcoding.androidstorage.R
 
 class MainActivity : AppCompatActivity() {
 

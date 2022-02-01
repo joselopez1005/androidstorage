@@ -1,4 +1,4 @@
-package com.plcoding.androidstorage
+package com.jlopez.androidstorage
 
 import android.graphics.Bitmap
 import android.net.Uri
